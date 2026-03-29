@@ -104,7 +104,7 @@ The standout feature that makes this application unique:
 
 1. **Clone or Download** this repository:
    ```bash
-   git clone https://github.com/yourusername/attendance-tracker.git
+   git clone https://github.com/KavyaSingh19/attendance-tracker.git
    cd attendance-tracker
    ```
 
